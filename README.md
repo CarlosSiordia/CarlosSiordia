@@ -3,7 +3,7 @@
 
 
 
- ***About me***
+<img src="https://media.tenor.com/_0fsAWLX2qQAAAAj/rapidtulip647-rt6.gif" width="30px">&nbsp;***About me***
  
  I am currently studying for a Bachelor's degree in Information Technologies (LTIN) at the University of Guadalajara.  
 Previously, I completed a technical program in Programming, where I participated in several state-level coding competitions.
@@ -15,7 +15,7 @@ Previously, I completed a technical program in Programming, where I participated
   - Astro Framework
 - 👯 I’m looking forward to collaborating on creative and innovative projects, especially in mobile development.
 - ✔ Ask me about anything tech-related — I’m always happy to help if it's in my domain! 😉
-- Outside tech: 🥊 I enjoy contact sports, 🎶 listening to music, and 🌄 admiring beautiful landscapes.
+- Outside tech: 🥊 I enjoy contact sports, and 🎶 listening to music.
 - 📫 Reach out to me at: [cf0810003@gmail.com](mailto:cf0810003@gmail.com)
 
 
