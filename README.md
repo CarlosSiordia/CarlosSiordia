@@ -20,7 +20,7 @@ Previously, I completed a technical program in Programming, where I participated
 
 
 <p align="center" width=300px alt="Gengar">
-  <img src="https://www.pkparaiso.com/imagenes/espada_escudo/sprites/animados-gigante/gengar.gif" width="300" alt="Gengar GIF">
+  <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/gengar.gif" alt="Gengar" width="300" alt="Gengar GIF">
 </p>
   
 ##
