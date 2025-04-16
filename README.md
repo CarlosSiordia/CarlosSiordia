@@ -2,8 +2,7 @@
 
 
 
-<img align="right" width=300px alt="Unicorn" src="https://www.pkparaiso.com/imagenes/espada_escudo/sprites/animados-gigante/gengar.gif" />
- 
+
  ***About me***
  
  I am currently studying for a Bachelor's degree in Information Technologies (LTIN) at the University of Guadalajara.  
