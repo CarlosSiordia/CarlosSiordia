@@ -33,7 +33,7 @@ Previously, I completed a technical program in Programming, where I participated
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,docker,figma,firebase,github,html,java,js,linux,mongodb,mysql,nextjs,nodejs,py,react,tailwind,ts,vscode,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,c,cs,css,php,discord,docker,figma,firebase,github,html,java,js,linux,mongodb,mysql,nextjs,nodejs,py,react,tailwind,ts,vscode,androidstudio,arduino,kotlin,wordpress,&perline=14" />
   </a>
 </p>
 
