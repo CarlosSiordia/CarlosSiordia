@@ -3,7 +3,7 @@
 
 
 
-<img src="https://media.tenor.com/_0fsAWLX2qQAAAAj/rapidtulip647-rt6.gif" width="30px">&nbsp;***About me***
+<img src="https://media.tenor.com/_0fsAWLX2qQAAAAj/rapidtulip647-rt6.gif" width="17px">&nbsp; ***About me***
  
  I am currently studying for a Bachelor's degree in Information Technologies (LTIN) at the University of Guadalajara.  
 Previously, I completed a technical program in Programming, where I participated in several state-level coding competitions.
