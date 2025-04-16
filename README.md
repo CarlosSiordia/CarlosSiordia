@@ -18,9 +18,8 @@ Previously, I completed a technical program in Programming, where I participated
 - Outside tech: 🥊 I enjoy contact sports, 🎶 listening to music, and 🌄 admiring beautiful landscapes.
 - 📫 Reach out to me at: [cf0810003@gmail.com](mailto:cf0810003@gmail.com)
 
----
 
-<p align="center">
+<p align="center" width=300px alt="Gengar">
   <img src="https://www.pkparaiso.com/imagenes/espada_escudo/sprites/animados-gigante/gengar.gif" width="300" alt="Gengar GIF">
 </p>
   
