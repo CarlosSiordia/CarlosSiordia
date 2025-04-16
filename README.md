@@ -6,23 +6,24 @@
  
  ***About me***
  
- <p>I am currently studying for a Bachelor's degree in Information Technologies (LTIN) at the University of Guadalajara.<br>
-   Previously, I completed a technical program in Programming, where I participated in several state-level coding competitions.</p>
- 
-   <p><span class="bold">I am passionate about mobile app development, especially UI/UX design. Java is my all-time favorite language.</span></p>
- 
-   <ul>
-     <li>🌱 I’m currently learning ...
-       <ul>
-         <li>Flutter</li>
-         <li>Astro Framework</li>
-       </ul>
-     </li>
-     <li>👯 I’m looking forward to collaborating on creative and innovative projects, especially in mobile development.</li>
-     <li>✔ Ask me about anything tech-related — I’m always happy to help if it's in my domain! 😉</li>
-     <li>Outside tech, 🥊 I enjoy contact sports, 🎶 listening to music, and 🌄 admiring beautiful landscapes.</li>
-     <li>📫 Reach out to me at: <a href="mailto:cf0810003@gmail.com">Cf0810003@gmail.com</a></li>
-   </ul>
+ I am currently studying for a Bachelor's degree in Information Technologies (LTIN) at the University of Guadalajara.  
+Previously, I completed a technical program in Programming, where I participated in several state-level coding competitions.
+
+**I am passionate about mobile app development, especially UI/UX design. Java is my all-time favorite language.**
+
+- 🌱 I’m currently learning ...
+  - Flutter
+  - Astro Framework
+- 👯 I’m looking forward to collaborating on creative and innovative projects, especially in mobile development.
+- ✔ Ask me about anything tech-related — I’m always happy to help if it's in my domain! 😉
+- Outside tech: 🥊 I enjoy contact sports, 🎶 listening to music, and 🌄 admiring beautiful landscapes.
+- 📫 Reach out to me at: [cf0810003@gmail.com](mailto:cf0810003@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://www.pkparaiso.com/imagenes/espada_escudo/sprites/animados-gigante/gengar.gif" width="300" alt="Gengar GIF">
+</p>
   
 ##
 
